@@ -5,7 +5,7 @@ Soy un desarrollador backend con experiencia en **Python** y frameworks como **D
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes:** Python
 - **Frameworks:** Django, Django Rest Framework, Flask, Langchain, Langgraph
-- **Bases de Datos:** PostgreSQL, MySQL
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB
 
 ## 📫 Contacta Conmigo
 - Email: [joquinmarcosschmidt@gmail.com](mailto:joquinmarcosschmidt@gmail.com)

@@ -8,7 +8,7 @@ Soy un desarrollador backend con experiencia en **Python** y frameworks como **D
 - **Bases de Datos:** PostgreSQL, MySQL, MongoDB
 
 ## 📫 Contacta Conmigo
-- Email: [joquinmarcosschmidt@gmail.com](mailto:joquinmarcosschmidt@gmail.com)
+- Email: [joaquinmarcosschmidt@gmail.com](mailto:joaquinmarcosschmidt@gmail.com)
 - LinkedIn: [Joaquín Schmidt](https://www.linkedin.com/in/joaquin-schmidt-13365120a/)
 
 ---

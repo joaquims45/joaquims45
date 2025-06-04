@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hola, soy Joaquín 👋
 Soy un desarrollador backend con experiencia en **Python** y **JavaScript**, especializado en frameworks como **Django** y **Django Rest Framework**. Me apasiona crear aplicaciones robustas y eficientes.
 
@@ -23,6 +25,8 @@ Soy un desarrollador backend con experiencia en **Python** y **JavaScript**, esp
 ## 📫 Contacta Conmigo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinmarcosschmidt@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-schmidt-13365120a/)
+
+</div>
 
 ---
 ✨ Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar o charlar sobre desarrollo.

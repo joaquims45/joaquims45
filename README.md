@@ -15,12 +15,22 @@ Soy un desarrollador backend con experiencia en **Python** y **JavaScript**, esp
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Langgraph](https://img.shields.io/badge/Langgraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🌐 APIs & Comunicación
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4A90E2?style=for-the-badge&logo=websocket&logoColor=white)
+
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📫 Contacta Conmigo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinmarcosschmidt@gmail.com)

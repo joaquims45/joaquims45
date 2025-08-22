@@ -1,12 +1,11 @@
 <div align="center">
 # Hola, soy Joaquín 👋
-Soy un desarrollador **fullstack** con experiencia en **Python**, **JavaScript** y **TypeScript**, especializado en frameworks como **Django**, **Django Rest Framework** y **React**. Me apasiona crear aplicaciones robustas y eficientes.
+Soy un desarrollador fullstack con experiencia en Python, JavaScript y TypeScript, especializado en frameworks como Django, Django Rest Framework y React. Me apasiona crear aplicaciones robustas y eficientes.
 ## 🛠️ Tecnologías y Herramientas
-### 💻 Lenguajes & Entornos
+### 💻 Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ### 🚀 Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)

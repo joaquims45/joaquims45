@@ -55,5 +55,5 @@ Soy un desarrollador **full-stack orientado a IA** con experiencia en **Python**
 
 ***
 
-✨ Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar o charlar sobre desarrollo.
+ Gracias por visitar mi perfil de GitHub! No dudes en contactarme si quieres colaborar o charlar sobre desarrollo.
 
